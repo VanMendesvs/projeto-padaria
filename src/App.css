@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color:brown;
+    width: 100vw;
+}
+
+img {
+    width: 10%;
+    border: solid red;
+}
+nav {
+    display: flex;
+    justify-content:  space-around;
+    }
+
+ul{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: solid black ;
+}
+
+li {
+    list-style: none;
+    font-size: 1.5rem;
+    color: white;
+    border: solid purple;
+}
+
